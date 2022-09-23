@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "common:orichalcum_ingots"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:orichalcum_nugget",
+    "count": 9
+  }
+}

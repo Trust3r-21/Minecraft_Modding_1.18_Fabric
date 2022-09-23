@@ -1,0 +1,26 @@
+{
+  "item.tutorialmod.orichalcum_ingot": "Orichalcum Ingot",
+  "item.tutorialmod.orichalcum_nugget": "Orichalcum Nugget",
+  "item.tutorialmod.raw_orichalcum": "Raw Orichalcum",
+  "item.tutorialmod.dowsing_rod": "Dowsing Rod",
+  "item.tutorialmod.dowsing_rod.message.no_block_found": "No valuable block found",
+  "item.tutorialmod.turnip": "Turnip",
+  "item.tutorialmod.coal_sliver": "Coal Sliver",
+  "item.tutorialmod.dowsing_rod.tooltip.shift": "Right Click to find valuables",
+  "item.tutorialmod.dowsing_rod.tooltip": "Hold §eSHIFT§r for more information",
+
+  "block.tutorialmod.orichalcum_block": "Orichalcum Block",
+  "block.tutorialmod.orichalcum_ore": "Orichalcum Ore",
+  "block.tutorialmod.raw_orichalcum_block": "Raw Orichalcum Block",
+  "block.tutorialmod.deepslate_orichalcum_ore": "Deepslate Orichalcum Ore",
+  "block.tutorialmod.speedy_block": "Speedy Block",
+  "block.tutorialmod.orichalcum_stairs": "Orichalcum Stairs",
+  "block.tutorialmod.orichalcum_slab": "Orichalcum Slab",
+  "block.tutorialmod.orichalcum_pressure_plate": "Orichalcum Pressure Plate",
+  "block.tutorialmod.orichalcum_button": "Orichalcum Button",
+
+  "itemGroup.tutorialmod.tutorial_mod_materials": "Tutorial Mod Materials",
+  "itemGroup.tutorialmod.tutorial_mod_tools": "Tutorial Mod Tools",
+  "itemGroup.tutorialmod.tutorial_mod_useful_blocks": "Tutorial Mod Useful Blocks",
+  "itemGroup.tutorialmod.tutorial_mod_building_blocks": "Tutorial Mod Building Blocks"
+}

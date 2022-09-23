@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#T#",
+    "###"
+  ],
+  "key": [{
+    "#": {
+      "item": "minecraft:green_whool"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    }
+  }],
+  "result": {
+    "item": "minecraft:creeper_head"
+  }
+}

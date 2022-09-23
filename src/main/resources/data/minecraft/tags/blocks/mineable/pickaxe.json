@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:orichalcum_ore",
+    "tutorialmod:orichalcum_block",
+    "tutorialmod:raw_orichalcum_block",
+    "tutorialmod:deepslate_orichalcum_ore",
+    "tutorialmod:speedy_block"
+  ]
+}

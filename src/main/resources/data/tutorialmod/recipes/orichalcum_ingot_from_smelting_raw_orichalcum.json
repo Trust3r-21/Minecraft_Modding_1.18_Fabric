@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tutorialmod:raw_orichalcum"
+  },
+  "result": "tutorialmod:orichalcum_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}
